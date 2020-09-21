@@ -20,5 +20,8 @@ Para las llamadas desde oficina el software almacenará información acerca del 
 El software también será capaz de ingresar cuantas horas normales u horas extras se laboró, esto por motivo de los informes de guardias y horas extra que se deban presentar. Así mismo, el sistema tendrá una lista predefinida de centros, de motivos por correctivos, y áreas de mantenimiento para agilizar el proceso de llenado de reportes. 
 
 
-Cómo instalar el repositorio en el equipo para desarrollo
-Además, deberá mostrar el link de github para accesar el repositorio, que ya debe estar con la estructura para empezar la programación del proyecto
+Instalación del repositorio:
+Es necesario abrir el archivo en GitHub Desktop, el cual nos da la opción de abrirlo externamente en un entorno desarrollador. 
+
+Link del repositorio:
+https://github.com/FrancyMC/ARM
